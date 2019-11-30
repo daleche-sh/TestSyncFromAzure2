@@ -22,4 +22,5 @@ Tags:
 :::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
 :::
 
+Winter is coming.
 
