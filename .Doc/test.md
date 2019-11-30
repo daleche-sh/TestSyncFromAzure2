@@ -22,7 +22,4 @@ Tags:
 :::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
 :::
 
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
