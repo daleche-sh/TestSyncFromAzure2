@@ -15,14 +15,7 @@ Tags:
 :::
 
 
-
-:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
-:::
-:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
-:::
-
-Winter is coming.
-:::
-
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 Winter is coming.Winter is coming.Winter is coming.
 
