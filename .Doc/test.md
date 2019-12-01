@@ -13,14 +13,13 @@ Tags:
 
 
 
-
-
-:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
-:::
 :::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
 :::
 :::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
 :::
 
 Winter is coming.
+:::
+
+Winter is coming.Winter is coming.Winter is coming.
 
