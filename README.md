@@ -1,1 +1,0 @@
-# TestSyncFromAzure2
