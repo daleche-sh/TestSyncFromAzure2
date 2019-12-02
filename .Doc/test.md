@@ -11,11 +11,4 @@ Tags:
 
 ## Azure Storage Features
 
-:::template /.templates/CWQLContent/AzureStorage/Storage-Features.md
-:::
-
-
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-Winter is coming.Winter is coming.Winter is coming.
-
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
